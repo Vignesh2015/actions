@@ -22,6 +22,7 @@ public class Actions_selenium {
 	@Test
 	public void actionsTest() throws Exception {
 		
+		System.out.println("Github installation");
 		System.setProperty(FirefoxDriver.SystemProperty.BROWSER_LOGFILE, "D:\\Selenium\\Logs\\mozilla.log");
 		
 		driver = new FirefoxDriver();
