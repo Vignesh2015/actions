@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="269112" started-at="2018-07-05T08:09:46Z" finished-at="2018-07-05T08:14:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="269112" started-at="2018-07-05T08:09:46Z" finished-at="2018-07-05T08:14:15Z">
+      <class name="Actions_selenium">
+        <test-method status="PASS" signature="actionsTest()[pri:0, instance:Actions_selenium@62ee68d8]" name="actionsTest" duration-ms="255491" started-at="2018-07-05T13:39:47Z" finished-at="2018-07-05T13:44:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Actions_selenium@62ee68d8]" name="tearDown" is-config="true" duration-ms="13301" started-at="2018-07-05T13:44:02Z" finished-at="2018-07-05T13:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Actions_selenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
