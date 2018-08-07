@@ -56,7 +56,9 @@ public class Actions_selenium {
 		 int size = rm.nextInt(total.size());
 		 String text = total.get(size).getText();
 		 total.get(size).click();
-			
+		
+		 
+		 System.out.println("End of Github");
 		}
 		
     
